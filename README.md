@@ -1,2 +1,2 @@
-# coupon-frontend
-Frontend for the bootcamp Crimson Coupons app
+# dormsupplies-frontend
+Frontend for the bootcamp Dorm Supplies app
